@@ -1,4 +1,4 @@
-### i3 vertical master & stack layout
+# i3 vertical master & stack layout
 Includes swapping functionality
 
 _Adapted from [Christian Tenllado](https://github.com/tenllado)
