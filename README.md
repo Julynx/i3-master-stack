@@ -6,7 +6,7 @@ and [YourArmpitStinks](https://www.reddit.com/user/YourArmpitStinks/)._
 
 ## Installation
 
-1) Download and place the files "master-stack" and "swapper" in your 
+1) Download and place the files [master-stack](https://raw.githubusercontent.com/Julynx/i3-master-stack/main/master-stack) and [swapper](https://raw.githubusercontent.com/Julynx/i3-master-stack/main/swapper) in your 
 `~/.config/i3` directory.
 
 2) Add the following lines to your `~/.config/i3/config`
