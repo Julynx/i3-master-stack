@@ -1,7 +1,8 @@
 ### i3 vertical master & stack layout
 Includes swapping functionality
 
-Adapted from ___
+_Adapted from [Christian Tenllado](https://github.com/tenllado)
+and [YourArmpitStinks](https://www.reddit.com/user/YourArmpitStinks/)._
 
 ## Installation
 
@@ -24,7 +25,7 @@ exec --no-startup-id $HOME/.config/i3/master-stack
 bindsym $mod+Tab exec --no-startup-id $HOME/.config/i3/swapper
 ```
 
-Note: You may have to restart i3 for the changes to take effect.
+3) You may have to restart i3 or log out and log back in for the changes to take effect.
 
 ## Usage
 
@@ -46,7 +47,7 @@ consecutive windows will be automatically inserted into the stack.
 │        │   +   │
 └────────┴───────┘
 ```
-Pressing the swapping keybinding (`$mod+Tab` by default) will
+Pressing the swapping keybind `$mod+Tab` will
 swap the focused window and the master window. 
 
 ```
